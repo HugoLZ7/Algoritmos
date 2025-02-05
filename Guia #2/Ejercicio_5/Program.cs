@@ -78,7 +78,7 @@ namespace Ejercicio_5
             Console.WriteLine("\t*                                           * ");
             Console.WriteLine("\t*         Este programa fue diseñado por:   * ");
             Console.WriteLine("\t*                                           * ");
-            Console.WriteLine("\t*              Hugo Lopez                   * ");
+            Console.WriteLine("\t*                   Hugo Lopez              * ");
             Console.WriteLine("\t*                                           * ");
             Console.Write("\t");
 
