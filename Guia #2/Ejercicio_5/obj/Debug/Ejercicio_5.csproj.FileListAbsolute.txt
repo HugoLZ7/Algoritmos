@@ -1,0 +1,7 @@
+E:\Repos Github\Algoritmos Git\Algoritmos\Guia #2\Ejercicio_5\bin\Debug\Ejercicio_5.exe.config
+E:\Repos Github\Algoritmos Git\Algoritmos\Guia #2\Ejercicio_5\bin\Debug\Ejercicio_5.exe
+E:\Repos Github\Algoritmos Git\Algoritmos\Guia #2\Ejercicio_5\bin\Debug\Ejercicio_5.pdb
+E:\Repos Github\Algoritmos Git\Algoritmos\Guia #2\Ejercicio_5\obj\Debug\Ejercicio_5.csproj.AssemblyReference.cache
+E:\Repos Github\Algoritmos Git\Algoritmos\Guia #2\Ejercicio_5\obj\Debug\Ejercicio_5.csproj.CoreCompileInputs.cache
+E:\Repos Github\Algoritmos Git\Algoritmos\Guia #2\Ejercicio_5\obj\Debug\Ejercicio_5.exe
+E:\Repos Github\Algoritmos Git\Algoritmos\Guia #2\Ejercicio_5\obj\Debug\Ejercicio_5.pdb
