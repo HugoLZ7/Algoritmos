@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Repos Github\\Algoritmos Git\\Algoritmos\\Guia #2\\Analisis Resultado\\Tarea_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51C28E3F-5F5F-4582-B16D-16533B148894}|Tarea_2.csproj|e:\\repos github\\algoritmos git\\algoritmos\\guia #2\\analisis resultado\\tarea_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51C28E3F-5F5F-4582-B16D-16533B148894}|Tarea_2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Repos Github\\Algoritmos Git\\Algoritmos\\Guia #2\\Analisis Resultado\\Tarea_2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Repos Github\\Algoritmos Git\\Algoritmos\\Guia #2\\Analisis Resultado\\Tarea_2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T02:57:18.434Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
