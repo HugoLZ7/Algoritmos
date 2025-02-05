@@ -1,0 +1,7 @@
+E:\Repos Github\Algoritmos Git\Algoritmos\Guia #2\Tarea_1\bin\Debug\Tarea_1.exe.config
+E:\Repos Github\Algoritmos Git\Algoritmos\Guia #2\Tarea_1\bin\Debug\Tarea_1.exe
+E:\Repos Github\Algoritmos Git\Algoritmos\Guia #2\Tarea_1\bin\Debug\Tarea_1.pdb
+E:\Repos Github\Algoritmos Git\Algoritmos\Guia #2\Tarea_1\obj\Debug\Tarea_1.csproj.AssemblyReference.cache
+E:\Repos Github\Algoritmos Git\Algoritmos\Guia #2\Tarea_1\obj\Debug\Tarea_1.csproj.CoreCompileInputs.cache
+E:\Repos Github\Algoritmos Git\Algoritmos\Guia #2\Tarea_1\obj\Debug\Tarea_1.exe
+E:\Repos Github\Algoritmos Git\Algoritmos\Guia #2\Tarea_1\obj\Debug\Tarea_1.pdb
