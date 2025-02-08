@@ -1,0 +1,7 @@
+E:\Repos Github\Algoritmos Git\Algoritmos\Guia #3\Mayor_de_2_numeros\bin\Debug\Mayor_de_2_numeros.exe.config
+E:\Repos Github\Algoritmos Git\Algoritmos\Guia #3\Mayor_de_2_numeros\bin\Debug\Mayor_de_2_numeros.exe
+E:\Repos Github\Algoritmos Git\Algoritmos\Guia #3\Mayor_de_2_numeros\bin\Debug\Mayor_de_2_numeros.pdb
+E:\Repos Github\Algoritmos Git\Algoritmos\Guia #3\Mayor_de_2_numeros\obj\Debug\Mayor_de_2_numeros.csproj.AssemblyReference.cache
+E:\Repos Github\Algoritmos Git\Algoritmos\Guia #3\Mayor_de_2_numeros\obj\Debug\Mayor_de_2_numeros.csproj.CoreCompileInputs.cache
+E:\Repos Github\Algoritmos Git\Algoritmos\Guia #3\Mayor_de_2_numeros\obj\Debug\Mayor_de_2_numeros.exe
+E:\Repos Github\Algoritmos Git\Algoritmos\Guia #3\Mayor_de_2_numeros\obj\Debug\Mayor_de_2_numeros.pdb
