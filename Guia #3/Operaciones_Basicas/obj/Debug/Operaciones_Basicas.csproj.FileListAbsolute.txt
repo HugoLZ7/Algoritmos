@@ -1,0 +1,7 @@
+E:\Repos Github\Algoritmos Git\Algoritmos\Guia #3\Operaciones_Basicas\bin\Debug\Operaciones_Basicas.exe.config
+E:\Repos Github\Algoritmos Git\Algoritmos\Guia #3\Operaciones_Basicas\bin\Debug\Operaciones_Basicas.exe
+E:\Repos Github\Algoritmos Git\Algoritmos\Guia #3\Operaciones_Basicas\bin\Debug\Operaciones_Basicas.pdb
+E:\Repos Github\Algoritmos Git\Algoritmos\Guia #3\Operaciones_Basicas\obj\Debug\Operaciones_Basicas.csproj.AssemblyReference.cache
+E:\Repos Github\Algoritmos Git\Algoritmos\Guia #3\Operaciones_Basicas\obj\Debug\Operaciones_Basicas.csproj.CoreCompileInputs.cache
+E:\Repos Github\Algoritmos Git\Algoritmos\Guia #3\Operaciones_Basicas\obj\Debug\Operaciones_Basicas.exe
+E:\Repos Github\Algoritmos Git\Algoritmos\Guia #3\Operaciones_Basicas\obj\Debug\Operaciones_Basicas.pdb
